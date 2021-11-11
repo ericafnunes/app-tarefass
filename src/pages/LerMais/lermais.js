@@ -6,7 +6,7 @@ function LerMais() {
     return (
         <div>
             <Header />
-            <h1>Page lermais</h1>
+            <h1>Page ler mais</h1>
         </div>
     )
 }
